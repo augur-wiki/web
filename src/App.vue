@@ -63,7 +63,7 @@ body {
 }
 #content {
   height: 100vh;
-  width: calc(100vw - 61px); // TODO: Fix this up.
+  width: calc(100vw - 101px); // TODO: Fix this up.
   float: right;
 }
 </style>

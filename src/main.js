@@ -2,8 +2,8 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 
-/* Setup socket */
-import { VueSocketIO } from 'vue-socket.io';
+/* Setup axios */
+import { axios } from "axios";
 
 /* Import FontAwesome*/
 import { library } from '@fortawesome/fontawesome-svg-core'
